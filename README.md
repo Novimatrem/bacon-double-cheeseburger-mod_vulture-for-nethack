@@ -1,3 +1,31 @@
-# bacon-double-cheeseburger-mod_vulture-for-nethack
+# Bacon double-cheeseburger mod for 'Vulture for Nethack'
 
-Vulture for Nethack mod which replaces the default sprites for the custom-nameable 'fruit' which defaults to 'slime mold', with a bacon double-cheeseburger, as that's what I have it named in my .nethackrc.
+Replaces the default sprites for the custom-nameable 'fruit' which defaults to 'slime mold', with a bacon double-cheeseburger, as that's what I have it named in [my .nethackrc](https://novimatrem.gitlab.io/nethackrc).
+
+I recommend setting the ['fruit' variable](https://nethackwiki.com/wiki/Options#fruit) in ['.nethackrc'](https://nethackwiki.com/wiki/Options) to 'bacon double cheeseburger' when you're using this mod.
+
+Obviously, due to how slime molds ('fruit') work, NetHack treats the fruit as vegan, regardless of its name or sprite.
+
+As you should have changed your .nethackrc to name the fruit 'bacon double cheeseburger', the game will identify cheeseburger as the food part, so that quaffing certain potions results in messages such as "This tastes like cheeseburger juice".
+
+# Screenshots
+
+SCR1 HERE
+
+SCR2 HERE
+
+# Download
+
+You can download the mod here; (be sure to follow the installation instructions)
+
+LINK1 HERE
+
+# Installation
+
+This mod is simple to install, simply find your 'Vulture for NetHack' folder, and drag-and-drop the one from the downloaded archive into the directory it's in, being sure to choose to overwrite, merge, and replace.
+
+Your slime mold fruit things will now look like, and be named, bacon double cheeseburger.
+
+...
+
+the things i spend my time making.. :p
