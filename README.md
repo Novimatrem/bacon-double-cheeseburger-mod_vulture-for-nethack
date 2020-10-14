@@ -10,9 +10,9 @@ As you should have changed your .nethackrc to name the fruit 'bacon double chees
 
 # Screenshots
 
-SCR1 HERE
+![Screenshot 1](https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_vulture-for-nethack/-/raw/master/screenshot1.png)
 
-SCR2 HERE
+![Screenshot 2](https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_vulture-for-nethack/-/raw/master/screenshot2.png)
 
 # Download
 
