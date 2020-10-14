@@ -24,7 +24,7 @@ Main download link: https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_
 
 Secondary mirror: https://novimatrem.itch.io/bacon-double-cheeseburger-mod_vulture-for-nethack
 
-​This mod can also be found on Mod DB: https://www.moddb.com/downloads/bacon-double-cheeseburger-mod-for-vulture-for-ne...​​
+​This mod can also be found on Mod DB: https://www.moddb.com/downloads/bacon-double-cheeseburger-mod-for-vulture-for-nethack
 
 # Installation
 
