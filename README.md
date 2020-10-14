@@ -18,9 +18,11 @@ As you should have changed your .nethackrc to name the fruit 'bacon double chees
 
 You can download the mod here; (be sure to follow the installation instructions)
 
-Main link: https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_vulture-for-nethack/-/archive/v1.0-final/bacon-double-cheeseburger-mod_vulture-for-nethack-v1.0-final.zip
+Clone the repo if you know how, that contains all you will need, alternatively;
 
-Alternate mirror:
+Main download link: https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_vulture-for-nethack/-/archive/master/bacon-double-cheeseburger-mod_vulture-for-nethack-master.zip
+
+Secondary mirror:
 
 # Installation
 
