@@ -22,7 +22,7 @@ Clone the repo if you know how, that contains all you will need, alternatively;
 
 Main download link: https://gitlab.com/Novimatrem/bacon-double-cheeseburger-mod_vulture-for-nethack/-/archive/master/bacon-double-cheeseburger-mod_vulture-for-nethack-master.zip
 
-Secondary mirror:
+Secondary mirror: https://novimatrem.itch.io/bacon-double-cheeseburger-mod_vulture-for-nethack
 
 # Installation
 
